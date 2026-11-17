@@ -1,5 +1,5 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
+# Date:31/10/2026 
 
 
 
@@ -129,5 +129,5 @@ Partial Autocorrelation
 Autocorrelation
 <img width="932" height="497" alt="image" src="https://github.com/user-attachments/assets/54975094-fb8c-468b-afb1-eb9b6376a9f2" />
 
-RESULT:
+### RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
